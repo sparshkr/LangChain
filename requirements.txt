@@ -2,3 +2,6 @@ python-dotenv
 langchain-google-genai
 langchain_core
 langchain_community
+chromadb
+streamlit
+langgraph
